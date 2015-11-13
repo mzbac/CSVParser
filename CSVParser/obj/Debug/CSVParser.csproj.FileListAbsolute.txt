@@ -1,0 +1,15 @@
+D:\test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\test\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+D:\test\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+D:\test\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\test\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\test\CSVParser\CSVParser\bin\Debug\ConsoleApplication1.exe.config
+D:\test\CSVParser\CSVParser\obj\Debug\ConsoleApplication1.exe
+D:\test\CSVParser\CSVParser\obj\Debug\ConsoleApplication1.pdb
+D:\test\CSVParser\CSVParser\bin\Debug\ConsoleApplication1.exe
+D:\test\CSVParser\CSVParser\bin\Debug\ConsoleApplication1.pdb
+D:\test\CSVParser\CSVParser\bin\Debug\Newtonsoft.Json.dll
+D:\test\CSVParser\CSVParser\bin\Debug\Newtonsoft.Json.xml
+D:\test\CSVParser\CSVParser\obj\Debug\CSVParser.csprojResolveAssemblyReference.cache
